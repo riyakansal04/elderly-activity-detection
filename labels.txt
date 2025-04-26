@@ -1,0 +1,7 @@
+standing
+sitting
+standing normally
+coughing
+headache
+falling
+heart stroke
